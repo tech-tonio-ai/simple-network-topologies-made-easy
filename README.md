@@ -38,7 +38,7 @@ name IT
 exit
 
 ```
-
+```bash
 # Enable Inter-VLAN Routing
 enable
 configure terminal
